@@ -1,11 +1,11 @@
 ---
-name: CinematicPromptSkill
+name: cinematic-prompt-skill
 version: 2.0.0
 description: 将用户的画面构想、人物动作或视频需求，标准化为写实电影风格的图像与视频生成提示词；统一处理场景参考、人物位置锚定、摄影参数、景别、焦点、运镜、光线、可见动作、对白、声音、自然衔接与负面约束，不擅自补充未提供的外观、剧情或时间信息。
 license: MIT
 ---
 
-# CinematicPromptSkill
+# cinematic-prompt-skill
 
 ## 1. 适用范围
 
